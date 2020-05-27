@@ -1,0 +1,22 @@
+{
+  "name": "assistant-bot",
+  "version": "1.0.0",
+  "description": "A discord assistant ready to help you on moderating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PNektarios/Discord.JS-Assistant-Bot.git"
+  },
+  "author": "https://github.com/PNektarios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PNektarios/Discord.JS-Assistant-Bot/issues"
+  },
+  "homepage": "https://github.com/PNektarios/Discord.JS-Assistant-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  }
+}
